@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "FriendFinder dating app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burnit66/FriendFinder.git"
+  },
+  "author": "Joe Burnett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burnit66/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/burnit66/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
