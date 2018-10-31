@@ -1,6 +1,6 @@
 var friends = [{
     "name": "Ahmed",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://usatftw.files.wordpress.com/2018/09/ap-kaepernick-grievance-football.jpg?w=1000&h=600&crop=1",
     "scores": [
         5,
         1,
@@ -15,7 +15,7 @@ var friends = [{
     ]
 }, {
     "name": "Joe",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/05/28052407/Sam_Harris_2016-e1527485057318.jpg",
     "scores": [
         1,
         1,
@@ -30,7 +30,7 @@ var friends = [{
     ]
 }, {
     "name": "Erin",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://www.hrw.org/sites/default/files/styles/open_graph/public/multimedia_images_2017/201710nyc_usa_alexander_0.jpg?itok=PGjb1OO8",
     "scores": [
         3,
         1,
@@ -45,7 +45,7 @@ var friends = [{
     ]
 }, {
     "name": "Sarah",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://pbs.twimg.com/profile_images/877591979315613696/PsRTJoxy_400x400.jpg",
     "scores": [
         5,
         4,
@@ -60,7 +60,7 @@ var friends = [{
     ]
 }, {
     "name": "Tim",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://ei.marketwatch.com/Multimedia/2018/02/15/Photos/ZH/MW-GD899_glass__20180215181335_ZH.jpg?uuid=d92d8a86-12a5-11e8-831f-9c8e992d421e",
     "scores": [
         5,
         2,
@@ -75,7 +75,7 @@ var friends = [{
     ]
 }, {
     "name": "Pete",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://www.catster.com/wp-content/uploads/2017/08/A-fluffy-cat-looking-funny-surprised-or-concerned.jpg",
     "scores": [
         1,
         1,
@@ -90,7 +90,7 @@ var friends = [{
     ]
 }, {
     "name": "Lindsay",
-    "photo": "http://placehold.it/400x400",
+    "photo": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2015%2F12%2F11083247%2Fcat.jpg&w=700&c=sc&poi=face&q=85",
     "scores": [
         5,
         1,
@@ -104,3 +104,5 @@ var friends = [{
         1
     ]
 }]
+
+module.exports = friends
