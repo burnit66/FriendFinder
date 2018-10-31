@@ -10,3 +10,5 @@ Friend Finder uses:
 
 ## Using Friend Finder
 Check the API for a list of users at /api/friends
+
+Check it out live! [Here]: https://friendfinderappclass.herokuapp.com/
